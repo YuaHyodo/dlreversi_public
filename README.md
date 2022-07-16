@@ -14,8 +14,11 @@
 - 現在(2022/7/16の夜)
 ![github用1](https://user-images.githubusercontent.com/66828980/179358606-473394d3-9207-400e-bbde-465515d1c741.png)
 
-- 恐らく、novoc studioのオセロ部門で最初に1000勝を達成したAIでもある。
+- 恐らく、novoc studioのオセロ部門で最初に1000勝を達成したAIでもある。(写真は2022/7/14の19:00頃撮影)
 ![github用2](https://user-images.githubusercontent.com/66828980/179358593-e61e3945-24fa-44ee-aa59-548b48077d88.png)
+
+- 日時はいずれも日本時間である
+
 
 # 特徴
 - ディープラーニングを用いた評価関数

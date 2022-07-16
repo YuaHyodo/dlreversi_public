@@ -7,6 +7,8 @@
 # 概要
 - dlreversiとは、novoc studio ( https://www.novoc.io/ )というサイトのオセロ(リバーシ)部門でトップに立ったことがあるオセロAIである。(残念ながら、1位が最強であるとは限らない)
 
+- python-dlshogi2をフォークしてpython-dlothelloを作った時の知見を活かして作ったので、dlreversiという名前になった。
+
 - 2022/7/13の18:00頃に1位になってから未だに1位を維持している。(2022/7/16現在)
 - 1位を達成した時
 ![github用3](https://user-images.githubusercontent.com/66828980/179358756-5269dc94-3dba-45af-8bb4-d8b391a5bcb7.png)

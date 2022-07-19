@@ -21,6 +21,10 @@
 - 恐らく、novoc studioのオセロ部門で最初に1000勝を達成したAIでもある。(写真は2022/7/14の19:00頃撮影)
 ![github用2](https://user-images.githubusercontent.com/66828980/179358593-e61e3945-24fa-44ee-aa59-548b48077d88.png)
 
+- 2022/7/19 22:00頃に5000勝を達成した。
+![github用4](https://user-images.githubusercontent.com/66828980/179766944-1387e2b8-90a3-4a19-bb1e-4f20e13d5dce.png)
+
+
 - 日時はいずれも日本時間である
 
 
